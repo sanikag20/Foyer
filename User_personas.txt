@@ -1,0 +1,45 @@
+TASK 1: Who are the right user personas to reach out for foyer?
+Who is it meant for based on what it does?
+Foyer is a Product Management Software that assists the online workspaces of users. It focuses on increasing the productivity of the users and helps them manage everyday tasks and meetings via various tools such as reminders and note-taking platforms, etc, all integrated in one.
+
+Which categories of users are potential users of Foyer
+Corporate sector: The corporate sector is in a dire need of management systems especially in the online reign of events. In this scenario, we can target three sets of users:
+CEO/Founders
+Managers/Intermediate levels of employees
+New employees
+Education sector: With the recent shift of education to the online platforms, we need a platform that can help professors and students manage meetings and keep track of the notes, assignments, exams, and submissions on the same platform. Although post-pandemic the education sector will shift offline, most of the academic material, especially in the higher classes, will be transferred via virtual media. Thus, targeting the education industry can also increase our user base.
+Professors
+College students
+Management/Assistance systems in all professions: We can also pitch the product to the managers and personal assistants in various industries.
+
+Which is the most effective section of users and why
+One thing that we need to keep in mind while looking at the user base is that Foyer acts as an extension to our original video-calling and note-making platforms, making it a little technologically advanced for the usage of people with non-tech-related professions.
+Thus, the users we need to focus on are all corporate section professionals and age groups well acquainted with technology. This rules out school students and faculty in the education sector, as well as the other professions that are not well acquainted with technology.
+[Perhaps pitching Foyer to doctors, lawyers, architects, teachers, designers, etc for their daily interactive meeting can be fruitful to Foyer in the longer run, however, to start with, we need a smaller group of users that we need to target, and thus, I believe that pitching the idea to the two main sectors of corporate and education is beneficial to Foyer.] 
+
+Conclusion
+Foyer needs to target technologically adept generations (15 to 50 years of age) primarily working in the corporate and education sector. 
+
+
+TASK 2: What channels can we use to reach out to the aforementioned userbase?
+
+What generic channels do companies use to reach out
+Go to your users offline
+Go to your users online
+Invite your friends
+Create FOMO
+Leverage influencers
+Get Press
+Build a community
+
+What channel can we use to reach out and which channel will target which type of users?
+
+Go to users online: We can connect to many types of organizations via email, and set up virtual meetings (preferably via Foyer, that’ll show em!) to pitch Foyer. This is a much more effective way of reaching out to consumers, as compared to the offline route.
+Get press: This is one of the traditional ways of reaching out, getting press. Any (good) involvement of Foyer with the journalistic outlets can gain traction. Even something like writing tech-related articles on sites can attract people to your product.
+Invite your friends: Pitching Foyer to those higher up the corporate ladder can compel their subordinates and employees to use Foyer too. Thus, creating a community of users in Foyer. (Join a group feature- When you enter your name and organization it automatically adds you to the team you belong to [or something similar]).
+Go to users offline: We can conduct *door2door* sessions and meetings with managers of various companies, and also connect with institutes and their faculty.  However, this would be a very tedious process and will not enhance the reach of Foyer outside a locality. Additionally, Foyer being a tool that enhances online productivity, it will have to be demonstrated on a virtual platform itself. 
+Build a community: Not applicable in the case of Foyer.
+Create FOMO: With a very similar reasoning, FOMO is experienced in trendy platforms, and not tech-based platforms. Foyer targets a professional user base, hence, this method of reaching out, will not be as effective as the rest of them.
+Leverage influencers: Influencers in the tech industry could be invited to advertise for Foyer. We could advertise our products to the celebrities of the tech industry, however, I’m not sure of the influencing system in the silicon valley, and hence, cannot comment on this any further.
+
+Note: As per Lenny Rachitski, no startup requires more than 3 ways of reaching out, and hence I have finalized 3 methods to connect with the users. However, if need be, any of the above options can be used to reach out.
